@@ -1,0 +1,7 @@
+## Features
+
+- Extracts product title, and price
+- Supports multi-page scraping
+- Handles missing data safely
+- Exports clean CSV file
+- Uses explicit waits for stability

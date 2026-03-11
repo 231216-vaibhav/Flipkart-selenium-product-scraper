@@ -1,0 +1,6 @@
+## Sample Output
+
+| Title | Price | Link |
+|-------|-------|--------|
+| Laptop XYZ | 59,999 | https://www.flipkart.com/ |
+| Laptop ABC | 62,990 | https://www.flipkart.com/ |

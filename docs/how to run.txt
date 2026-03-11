@@ -1,0 +1,10 @@
+## Usage
+
+Run the script:
+
+python main.py
+
+The script will:
+- Open browser
+- Scrape Amazon search results
+- Export data to output/data.csv
